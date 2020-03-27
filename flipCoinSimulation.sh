@@ -200,6 +200,7 @@ do
 		 Sort3
 		 break ;;
 		*)
-		 printf "Invalid choice" ;;
+		 printf "Invalid choice \n" ;;
 	esac
 done
+
